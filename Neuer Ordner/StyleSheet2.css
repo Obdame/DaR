@@ -1,0 +1,20 @@
+﻿body
+
+h1
+{
+    font-family: Arial, 'Lucida Console', sans-serif; font-size: 25px; color: white;
+
+}
+h2 {
+    font-family: Arial, 'Lucida Console', sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+
+
+p {
+    font-family: Arial, 'Lucida Console', sans-serif;
+    font-size: 15px;
+    color: white;
+}
